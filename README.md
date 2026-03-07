@@ -1,5 +1,11 @@
 # AegisAPI
 
+## Latest Release
+
+Download the latest version here:
+
+➡️ https://github.com/Vikram2921/Fetcher/releases/latest
+
 **Enterprise AI-Native Windows API Client**
 
 AegisAPI is a powerful, local-first API client built for developers and teams who need more than just request/response — it combines a full-featured request builder, visual workflow automation, load testing, and native AI assistance, all running offline on your machine.
