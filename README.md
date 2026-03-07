@@ -1,5 +1,7 @@
 # AegisAPI
 
+![Downloads](https://img.shields.io/github/downloads/Vikram2921/Fetcher/total)
+
 ## Latest Release
 
 Download the latest version here:
